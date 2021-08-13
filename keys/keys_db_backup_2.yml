@@ -1,0 +1,306 @@
+---
+version: 1.5.0
+registry:
+  Service:
+    wallet: keys/accounts/service_wallet.json
+    account: keys/accounts/service_account.json
+  User1:
+    wallet: keys/accounts/user1_wallet.json
+    account: keys/accounts/user1_account.json
+  User2:
+    wallet: keys/accounts/user2_wallet.json
+    account: keys/accounts/user2_account.json
+  User3:
+    wallet: keys/accounts/user3_wallet.json
+    account: keys/accounts/user3_account.json
+  User4:
+    wallet: keys/accounts/user4_wallet.json
+    account: keys/accounts/user4_account.json
+  User5:
+    wallet: keys/accounts/user5_wallet.json
+    account: keys/accounts/user5_account.json
+  User6:
+    wallet: keys/accounts/user6_wallet.json
+    account: keys/accounts/user6_account.json  
+  User7:
+    wallet: keys/accounts/user7_wallet.json
+    account: keys/accounts/user7_account.json
+  User8:
+    wallet: keys/accounts/user8_wallet.json
+    account: keys/accounts/user8_account.json
+  User9:
+    wallet: keys/accounts/user9_wallet.json
+    account: keys/accounts/user9_account.json	
+  User10:
+    wallet: keys/accounts/user10_wallet.json
+    account: keys/accounts/user10_account.json
+  User11:
+    wallet: keys/accounts/user11_wallet.json
+    account: keys/accounts/user11_account.json
+  User12:
+    wallet: keys/accounts/user12_wallet.json
+    account: keys/accounts/user12_account.json
+  User13:
+    wallet: keys/accounts/user13_wallet.json
+    account: keys/accounts/user13_account.json
+  User14:
+    wallet: keys/accounts/user14_wallet.json
+    account: keys/accounts/user14_account.json
+  User15:
+    wallet: keys/accounts/user15_wallet.json
+    account: keys/accounts/user15_account.json
+  User16:
+    wallet: keys/accounts/user16_wallet.json
+    account: keys/accounts/user16_account.json  
+  User17:
+    wallet: keys/accounts/user17_wallet.json
+    account: keys/accounts/user17_account.json
+  User18:
+    wallet: keys/accounts/user18_wallet.json
+    account: keys/accounts/user18_account.json
+  User19:
+    wallet: keys/accounts/user19_wallet.json
+    account: keys/accounts/user19_account.json	
+  User20:
+    wallet: keys/accounts/user20_wallet.json
+    account: keys/accounts/user20_account.json
+  User21:
+    wallet: keys/accounts/user21_wallet.json
+    account: keys/accounts/user21_account.json
+  User22:
+    wallet: keys/accounts/user22_wallet.json
+    account: keys/accounts/user22_account.json
+  User23:
+    wallet: keys/accounts/user23_wallet.json
+    account: keys/accounts/user23_account.json
+  User24:
+    wallet: keys/accounts/user24_wallet.json
+    account: keys/accounts/user24_account.json
+  User25:
+    wallet: keys/accounts/user25_wallet.json
+    account: keys/accounts/user25_account.json
+  User26:
+    wallet: keys/accounts/user26_wallet.json
+    account: keys/accounts/user26_account.json  
+  User27:
+    wallet: keys/accounts/user27_wallet.json
+    account: keys/accounts/user27_account.json
+  User28:
+    wallet: keys/accounts/user28_wallet.json
+    account: keys/accounts/user28_account.json
+  User29:
+    wallet: keys/accounts/user29_wallet.json
+    account: keys/accounts/user29_account.json	
+  User30:
+    wallet: keys/accounts/user30_wallet.json
+    account: keys/accounts/user30_account.json
+  User31:
+    wallet: keys/accounts/user31_wallet.json
+    account: keys/accounts/user31_account.json
+  User32:
+    wallet: keys/accounts/user32_wallet.json
+    account: keys/accounts/user32_account.json
+  User33:
+    wallet: keys/accounts/user33_wallet.json
+    account: keys/accounts/user33_account.json
+  User34:
+    wallet: keys/accounts/user34_wallet.json
+    account: keys/accounts/user34_account.json
+  User35:
+    wallet: keys/accounts/user35_wallet.json
+    account: keys/accounts/user35_account.json
+  User36:
+    wallet: keys/accounts/user36_wallet.json
+    account: keys/accounts/user36_account.json  
+  User37:
+    wallet: keys/accounts/user37_wallet.json
+    account: keys/accounts/user37_account.json
+  User38:
+    wallet: keys/accounts/user38_wallet.json
+    account: keys/accounts/user38_account.json
+  User39:
+    wallet: keys/accounts/user39_wallet.json
+    account: keys/accounts/user39_account.json	
+  User40:
+    wallet: keys/accounts/user40_wallet.json
+    account: keys/accounts/user40_account.json
+  User41:
+    wallet: keys/accounts/user41_wallet.json
+    account: keys/accounts/user41_account.json
+  User42:
+    wallet: keys/accounts/user42_wallet.json
+    account: keys/accounts/user42_account.json
+  User43:
+    wallet: keys/accounts/user43_wallet.json
+    account: keys/accounts/user43_account.json
+  User44:
+    wallet: keys/accounts/user44_wallet.json
+    account: keys/accounts/user44_account.json
+  User45:
+    wallet: keys/accounts/user45_wallet.json
+    account: keys/accounts/user45_account.json
+  User46:
+    wallet: keys/accounts/user46_wallet.json
+    account: keys/accounts/user46_account.json  
+  User47:
+    wallet: keys/accounts/user47_wallet.json
+    account: keys/accounts/user47_account.json
+  User48:
+    wallet: keys/accounts/user48_wallet.json
+    account: keys/accounts/user48_account.json
+  User49:
+    wallet: keys/accounts/user49_wallet.json
+    account: keys/accounts/user49_account.json	
+  User50:
+    wallet: keys/accounts/user50_wallet.json
+    account: keys/accounts/user50_account.json
+  User51:
+    wallet: keys/accounts/user51_wallet.json
+    account: keys/accounts/user51_account.json
+  User52:
+    wallet: keys/accounts/user52_wallet.json
+    account: keys/accounts/user52_account.json
+  User53:
+    wallet: keys/accounts/user53_wallet.json
+    account: keys/accounts/user53_account.json
+  User54:
+    wallet: keys/accounts/user54_wallet.json
+    account: keys/accounts/user54_account.json
+  User55:
+    wallet: keys/accounts/user55_wallet.json
+    account: keys/accounts/user55_account.json
+  User56:
+    wallet: keys/accounts/user56_wallet.json
+    account: keys/accounts/user56_account.json  
+  User57:
+    wallet: keys/accounts/user57_wallet.json
+    account: keys/accounts/user57_account.json
+  User58:
+    wallet: keys/accounts/user58_wallet.json
+    account: keys/accounts/user58_account.json
+  User59:
+    wallet: keys/accounts/user59_wallet.json
+    account: keys/accounts/user59_account.json	
+  User60:
+    wallet: keys/accounts/user60_wallet.json
+    account: keys/accounts/user60_account.json
+  User61:
+    wallet: keys/accounts/user61_wallet.json
+    account: keys/accounts/user61_account.json
+  User62:
+    wallet: keys/accounts/user62_wallet.json
+    account: keys/accounts/user62_account.json
+  User63:
+    wallet: keys/accounts/user63_wallet.json
+    account: keys/accounts/user63_account.json
+  User64:
+    wallet: keys/accounts/user64_wallet.json
+    account: keys/accounts/user64_account.json
+  User65:
+    wallet: keys/accounts/user65_wallet.json
+    account: keys/accounts/user65_account.json
+  User66:
+    wallet: keys/accounts/user66_wallet.json
+    account: keys/accounts/user66_account.json  
+  User67:
+    wallet: keys/accounts/user67_wallet.json
+    account: keys/accounts/user67_account.json
+  User68:
+    wallet: keys/accounts/user68_wallet.json
+    account: keys/accounts/user68_account.json
+  User69:
+    wallet: keys/accounts/user69_wallet.json
+    account: keys/accounts/user69_account.json	
+  User70:
+    wallet: keys/accounts/user70_wallet.json
+    account: keys/accounts/user70_account.json
+  User71:
+    wallet: keys/accounts/user71_wallet.json
+    account: keys/accounts/user71_account.json
+  User72:
+    wallet: keys/accounts/user72_wallet.json
+    account: keys/accounts/user72_account.json
+  User73:
+    wallet: keys/accounts/user73_wallet.json
+    account: keys/accounts/user73_account.json
+  User74:
+    wallet: keys/accounts/user74_wallet.json
+    account: keys/accounts/user74_account.json
+  User75:
+    wallet: keys/accounts/user75_wallet.json
+    account: keys/accounts/user75_account.json
+  User76:
+    wallet: keys/accounts/user76_wallet.json
+    account: keys/accounts/user76_account.json  
+  User77:
+    wallet: keys/accounts/user77_wallet.json
+    account: keys/accounts/user77_account.json
+  User78:
+    wallet: keys/accounts/user78_wallet.json
+    account: keys/accounts/user78_account.json
+  User79:
+    wallet: keys/accounts/user79_wallet.json
+    account: keys/accounts/user79_account.json	
+  User80:
+    wallet: keys/accounts/user80_wallet.json
+    account: keys/accounts/user80_account.json
+  User81:
+    wallet: keys/accounts/user81_wallet.json
+    account: keys/accounts/user81_account.json
+  User82:
+    wallet: keys/accounts/user82_wallet.json
+    account: keys/accounts/user82_account.json
+  User83:
+    wallet: keys/accounts/user83_wallet.json
+    account: keys/accounts/user83_account.json
+  User84:
+    wallet: keys/accounts/user84_wallet.json
+    account: keys/accounts/user84_account.json
+  User85:
+    wallet: keys/accounts/user85_wallet.json
+    account: keys/accounts/user85_account.json
+  User86:
+    wallet: keys/accounts/user86_wallet.json
+    account: keys/accounts/user86_account.json  
+  User87:
+    wallet: keys/accounts/user87_wallet.json
+    account: keys/accounts/user87_account.json
+  User88:
+    wallet: keys/accounts/user88_wallet.json
+    account: keys/accounts/user88_account.json
+  User89:
+    wallet: keys/accounts/user89_wallet.json
+    account: keys/accounts/user89_account.json	
+  User90:
+    wallet: keys/accounts/user90_wallet.json
+    account: keys/accounts/user90_account.json
+  User91:
+    wallet: keys/accounts/user91_wallet.json
+    account: keys/accounts/user91_account.json
+  User92:
+    wallet: keys/accounts/user92_wallet.json
+    account: keys/accounts/user92_account.json
+  User93:
+    wallet: keys/accounts/user93_wallet.json
+    account: keys/accounts/user93_account.json
+  User94:
+    wallet: keys/accounts/user94_wallet.json
+    account: keys/accounts/user94_account.json
+  User95:
+    wallet: keys/accounts/user95_wallet.json
+    account: keys/accounts/user95_account.json
+  User96:
+    wallet: keys/accounts/user96_wallet.json
+    account: keys/accounts/user96_account.json  
+  User97:
+    wallet: keys/accounts/user97_wallet.json
+    account: keys/accounts/user97_account.json
+  User98:
+    wallet: keys/accounts/user98_wallet.json
+    account: keys/accounts/user98_account.json
+  User99:
+    wallet: keys/accounts/user99_wallet.json
+    account: keys/accounts/user99_account.json	
+  User100:
+    wallet: keys/accounts/user100_wallet.json
+    account: keys/accounts/user100_account.json

@@ -1,0 +1,111 @@
+solana airdrop 1 -k service_account.json && solana airdrop 1 -k service_wallet.json
+
+solana airdrop 1 -k user1_account.json && solana airdrop 1 -k user1_wallet.json
+solana airdrop 1 -k user2_account.json && solana airdrop 1 -k user2_wallet.json
+solana airdrop 1 -k user3_account.json && solana airdrop 1 -k user3_wallet.json
+solana airdrop 1 -k user4_account.json && solana airdrop 1 -k user4_wallet.json
+solana airdrop 1 -k user5_account.json && solana airdrop 1 -k user5_wallet.json
+solana airdrop 1 -k user6_account.json && solana airdrop 1 -k user6_wallet.json
+solana airdrop 1 -k user7_account.json && solana airdrop 1 -k user7_wallet.json
+solana airdrop 1 -k user8_account.json && solana airdrop 1 -k user8_wallet.json
+solana airdrop 1 -k user9_account.json && solana airdrop 1 -k user9_wallet.json
+solana airdrop 1 -k user10_account.json && solana airdrop 1 -k user10_wallet.json
+
+solana airdrop 1 -k user21_account.json && solana airdrop 1 -k user11_wallet.json
+solana airdrop 1 -k user22_account.json && solana airdrop 1 -k user12_wallet.json
+solana airdrop 1 -k user23_account.json && solana airdrop 1 -k user13_wallet.json
+solana airdrop 1 -k user24_account.json && solana airdrop 1 -k user14_wallet.json
+solana airdrop 1 -k user25_account.json && solana airdrop 1 -k user15_wallet.json
+solana airdrop 1 -k user26_account.json && solana airdrop 1 -k user16_wallet.json
+solana airdrop 1 -k user27_account.json && solana airdrop 1 -k user17_wallet.json
+solana airdrop 1 -k user28_account.json && solana airdrop 1 -k user18_wallet.json
+solana airdrop 1 -k user29_account.json && solana airdrop 1 -k user19_wallet.json
+solana airdrop 1 -k user30_account.json && solana airdrop 1 -k user20_wallet.json
+
+solana airdrop 1 -k user21_account.json && solana airdrop 1 -k user21_wallet.json
+solana airdrop 1 -k user22_account.json && solana airdrop 1 -k user22_wallet.json
+solana airdrop 1 -k user23_account.json && solana airdrop 1 -k user23_wallet.json
+solana airdrop 1 -k user24_account.json && solana airdrop 1 -k user24_wallet.json
+solana airdrop 1 -k user25_account.json && solana airdrop 1 -k user25_wallet.json
+solana airdrop 1 -k user26_account.json && solana airdrop 1 -k user26_wallet.json
+solana airdrop 1 -k user27_account.json && solana airdrop 1 -k user27_wallet.json
+solana airdrop 1 -k user28_account.json && solana airdrop 1 -k user28_wallet.json
+solana airdrop 1 -k user29_account.json && solana airdrop 1 -k user29_wallet.json
+solana airdrop 1 -k user30_account.json && solana airdrop 1 -k user30_wallet.json
+
+solana airdrop 1 -k user31_account.json && solana airdrop 1 -k user31_wallet.json
+solana airdrop 1 -k user32_account.json && solana airdrop 1 -k user32_wallet.json
+solana airdrop 1 -k user33_account.json && solana airdrop 1 -k user33_wallet.json
+solana airdrop 1 -k user34_account.json && solana airdrop 1 -k user34_wallet.json
+solana airdrop 1 -k user35_account.json && solana airdrop 1 -k user35_wallet.json
+solana airdrop 1 -k user36_account.json && solana airdrop 1 -k user36_wallet.json
+solana airdrop 1 -k user37_account.json && solana airdrop 1 -k user37_wallet.json
+solana airdrop 1 -k user38_account.json && solana airdrop 1 -k user38_wallet.json
+solana airdrop 1 -k user39_account.json && solana airdrop 1 -k user39_wallet.json
+solana airdrop 1 -k user40_account.json && solana airdrop 1 -k user40_wallet.json
+
+solana airdrop 1 -k user41_account.json && solana airdrop 1 -k user41_wallet.json
+solana airdrop 1 -k user42_account.json && solana airdrop 1 -k user42_wallet.json
+solana airdrop 1 -k user43_account.json && solana airdrop 1 -k user43_wallet.json
+solana airdrop 1 -k user44_account.json && solana airdrop 1 -k user44_wallet.json
+solana airdrop 1 -k user45_account.json && solana airdrop 1 -k user45_wallet.json
+solana airdrop 1 -k user46_account.json && solana airdrop 1 -k user46_wallet.json
+solana airdrop 1 -k user47_account.json && solana airdrop 1 -k user47_wallet.json
+solana airdrop 1 -k user48_account.json && solana airdrop 1 -k user48_wallet.json
+solana airdrop 1 -k user49_account.json && solana airdrop 1 -k user49_wallet.json
+solana airdrop 1 -k user50_account.json && solana airdrop 1 -k user50_wallet.json
+
+solana airdrop 1 -k user51_account.json && solana airdrop 1 -k user51_wallet.json
+solana airdrop 1 -k user52_account.json && solana airdrop 1 -k user52_wallet.json
+solana airdrop 1 -k user53_account.json && solana airdrop 1 -k user53_wallet.json
+solana airdrop 1 -k user54_account.json && solana airdrop 1 -k user54_wallet.json
+solana airdrop 1 -k user55_account.json && solana airdrop 1 -k user55_wallet.json
+solana airdrop 1 -k user56_account.json && solana airdrop 1 -k user56_wallet.json
+solana airdrop 1 -k user57_account.json && solana airdrop 1 -k user57_wallet.json
+solana airdrop 1 -k user58_account.json && solana airdrop 1 -k user58_wallet.json
+solana airdrop 1 -k user59_account.json && solana airdrop 1 -k user59_wallet.json
+solana airdrop 1 -k user60_account.json && solana airdrop 1 -k user60_wallet.json
+
+solana airdrop 1 -k user61_account.json && solana airdrop 1 -k user61_wallet.json
+solana airdrop 1 -k user62_account.json && solana airdrop 1 -k user62_wallet.json
+solana airdrop 1 -k user63_account.json && solana airdrop 1 -k user63_wallet.json
+solana airdrop 1 -k user64_account.json && solana airdrop 1 -k user64_wallet.json
+solana airdrop 1 -k user65_account.json && solana airdrop 1 -k user65_wallet.json
+solana airdrop 1 -k user66_account.json && solana airdrop 1 -k user66_wallet.json
+solana airdrop 1 -k user67_account.json && solana airdrop 1 -k user67_wallet.json
+solana airdrop 1 -k user68_account.json && solana airdrop 1 -k user68_wallet.json
+solana airdrop 1 -k user69_account.json && solana airdrop 1 -k user69_wallet.json
+solana airdrop 1 -k user70_account.json && solana airdrop 1 -k user70_wallet.json
+
+solana airdrop 1 -k user71_account.json && solana airdrop 1 -k user71_wallet.json
+solana airdrop 1 -k user72_account.json && solana airdrop 1 -k user72_wallet.json
+solana airdrop 1 -k user73_account.json && solana airdrop 1 -k user73_wallet.json
+solana airdrop 1 -k user74_account.json && solana airdrop 1 -k user74_wallet.json
+solana airdrop 1 -k user75_account.json && solana airdrop 1 -k user75_wallet.json
+solana airdrop 1 -k user76_account.json && solana airdrop 1 -k user76_wallet.json
+solana airdrop 1 -k user77_account.json && solana airdrop 1 -k user77_wallet.json
+solana airdrop 1 -k user78_account.json && solana airdrop 1 -k user78_wallet.json
+solana airdrop 1 -k user79_account.json && solana airdrop 1 -k user79_wallet.json
+solana airdrop 1 -k user80_account.json && solana airdrop 1 -k user70_wallet.json
+
+solana airdrop 1 -k user81_account.json && solana airdrop 1 -k user81_wallet.json
+solana airdrop 1 -k user82_account.json && solana airdrop 1 -k user82_wallet.json
+solana airdrop 1 -k user83_account.json && solana airdrop 1 -k user83_wallet.json
+solana airdrop 1 -k user84_account.json && solana airdrop 1 -k user84_wallet.json
+solana airdrop 1 -k user85_account.json && solana airdrop 1 -k user85_wallet.json
+solana airdrop 1 -k user86_account.json && solana airdrop 1 -k user86_wallet.json
+solana airdrop 1 -k user87_account.json && solana airdrop 1 -k user87_wallet.json
+solana airdrop 1 -k user88_account.json && solana airdrop 1 -k user88_wallet.json
+solana airdrop 1 -k user89_account.json && solana airdrop 1 -k user89_wallet.json
+solana airdrop 1 -k user90_account.json && solana airdrop 1 -k user90_wallet.json
+
+solana airdrop 1 -k user91_account.json && solana airdrop 1 -k user91_wallet.json
+solana airdrop 1 -k user92_account.json && solana airdrop 1 -k user92_wallet.json
+solana airdrop 1 -k user93_account.json && solana airdrop 1 -k user93_wallet.json
+solana airdrop 1 -k user94_account.json && solana airdrop 1 -k user94_wallet.json
+solana airdrop 1 -k user95_account.json && solana airdrop 1 -k user95_wallet.json
+solana airdrop 1 -k user96_account.json && solana airdrop 1 -k user96_wallet.json
+solana airdrop 1 -k user97_account.json && solana airdrop 1 -k user97_wallet.json
+solana airdrop 1 -k user98_account.json && solana airdrop 1 -k user98_wallet.json
+solana airdrop 1 -k user99_account.json && solana airdrop 1 -k user99_wallet.json
+solana airdrop 1 -k user100_account.json && solana airdrop 1 -k user100_wallet.json

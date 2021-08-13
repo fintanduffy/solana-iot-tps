@@ -13,6 +13,7 @@ use solana_sdk::{
     transaction::Transaction,
     transport::TransportError,
 };
+use std::time::SystemTime;
 
 /// Sets up the Program test and initializes 'n' program_accounts
 async fn setup(program_id: &Pubkey, program_accounts: &[Pubkey]) -> (BanksClient, Keypair, Hash) {
@@ -56,7 +57,7 @@ async fn submit_txn(
     transaction.sign(&[payer], recent_blockhash);
     banks_client.process_transaction(transaction).await
 }
-
+/*
 #[tokio::test]
 /// Initialization test
 async fn test_initialize_pass() {
@@ -95,6 +96,7 @@ async fn test_initialize_pass() {
     };
     assert!(is_initialized);
 }
+*/
 
 #[tokio::test]
 /// Mint test
@@ -103,22 +105,30 @@ async fn test_mint_pass() {
     let account_pubkey = Pubkey::new_unique();
 
     // Setup runtime testing and accounts
+    //let sys_time1 = SystemTime::now();
     let (mut banks_client, payer, recent_blockhash) = setup(&program_id, &[account_pubkey]).await;
+    //let new_sys_time1 = SystemTime::now();
+    //let difference1 = new_system_time1.duration_since(sys_time1).expect("Test");
+    //println!("Setup Difference = {:?}", difference1);
 
     // Initialize the account
+    //let sys_time2 = SystemTime::now();
     let mut instruction_data = Vec::<Vec<u8>>::new();
     let initialize = vec![0u8];
     instruction_data.push(initialize);
-    let result = submit_txn(
+    //let result = 
+    submit_txn(
         &program_id,
         &instruction_data,
         &[AccountMeta::new(account_pubkey, false)],
         &payer,
         recent_blockhash,
         &mut banks_client,
-    )
-    .await;
-    assert!(result.is_ok());
+    ).await;
+    //let new_sys_time2 = SystemTime::now();
+    //let difference2 = new_system_time2.duration_since(sys_time2).expect("Test");
+    //println!("Initialize Difference = {:?}", difference2);
+    //assert!(result.is_ok());
 
     // Do mint
     let mint_key = String::from("test_key_1");
@@ -130,16 +140,22 @@ async fn test_mint_pass() {
     instruction_data.push(String::try_to_vec(&mint_key).unwrap());
     instruction_data.push(String::try_to_vec(&mint_value).unwrap());
 
-    let result = submit_txn(
+    let sys_time = SystemTime::now();
+    //let result = 
+    submit_txn(
         &program_id,
         &instruction_data,
         &[AccountMeta::new(account_pubkey, false)],
         &payer,
         recent_blockhash,
         &mut banks_client,
-    )
-    .await;
-    assert!(result.is_ok());
+    ).await;
+    let new_sys_time = SystemTime::now();
+    let difference = new_sys_time.duration_since(sys_time).expect("Test");
+    println!("Mint Difference =  {:?}", difference);
+    //assert!(result.is_ok());
+    
+    /*
     // Check the data
     let (is_initialized, btree_map) = match banks_client.get_account(account_pubkey).await.unwrap()
     {
@@ -149,8 +165,10 @@ async fn test_mint_pass() {
     assert!(is_initialized);
     assert!(btree_map.contains_key(&mint_key));
     assert_eq!(btree_map.get(&mint_key).unwrap(), &mint_value);
+    */
 }
 
+/*
 #[tokio::test]
 /// Transfer test
 async fn test_mint_transfer_pass() {
@@ -333,3 +351,4 @@ async fn test_mint_transfer_burn_pass() {
     .await;
     assert!(result.is_ok());
 }
+*/

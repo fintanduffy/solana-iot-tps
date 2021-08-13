@@ -1,0 +1,36 @@
+---
+version: 1.5.0
+registry:
+  Service:
+    wallet: keys/accounts/service_wallet.json
+    account: keys/accounts/service_account.json
+  User1:
+    wallet: keys/accounts/user1_wallet.json
+    account: keys/accounts/user1_account.json
+  User2:
+    wallet: keys/accounts/user2_wallet.json
+    account: keys/accounts/user2_account.json
+  User3:
+    wallet: keys/accounts/user3_wallet.json
+    account: keys/accounts/user3_account.json
+  User4:
+    wallet: keys/accounts/user4_wallet.json
+    account: keys/accounts/user4_account.json
+  User5:
+    wallet: keys/accounts/user5_wallet.json
+    account: keys/accounts/user5_account.json
+  User6:
+    wallet: keys/accounts/user6_wallet.json
+    account: keys/accounts/user6_account.json
+  User7:
+    wallet: keys/accounts/user7_wallet.json
+    account: keys/accounts/user7_account.json
+  User8:
+    wallet: keys/accounts/user8_wallet.json
+    account: keys/accounts/user8_account.json
+  User9:
+    wallet: keys/accounts/user9_wallet.json
+    account: keys/accounts/user9_account.json
+  User10:
+    wallet: keys/accounts/user10_wallet.json
+    account: keys/accounts/user10_account.json
