@@ -1,6 +1,6 @@
 
 ## About
-This project contains a sample test app that demonstrates how the Solana blockchain can be used to process a high volume of IoT data transactions per second.
+This project contains a sample test app that demonstrates how the Solana blockchain can be used to process a high volume of IoT transactions per second.
 
 This application is a derived work inspired by @FrankC01 [solana-cli-program-template](https://github.com/hashblock/solana-cli-program-template) and  @mvines [solana-cli-template](https://github.com/mvines/solana-cli-template)
 
