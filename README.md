@@ -10,4 +10,4 @@ A functional overview of the test application
 ![framework](/images/test_program_overview.png)
 
 ## More Information
-For more information and the accompanying report, please feel free to contact the author @ fintan.duffy23@dmail.dcu.ie
+For more information and the accompanying report, please feel free to contact the author @ fintan.duffy23@mail.dcu.ie
